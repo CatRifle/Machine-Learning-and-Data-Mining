@@ -1,2 +1,2 @@
 # Machine-Learning-and-Data-Mining
-2020T2
+COMP9417 2020T2
